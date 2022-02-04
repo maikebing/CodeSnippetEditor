@@ -1,0 +1,171 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="frmmain_tphdr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">基本信息</Value>
+    </Setting>
+    <Setting Name="frmmain_tpimts" Type="System.String" Scope="User">
+      <Value Profile="(Default)">导入</Value>
+    </Setting>
+    <Setting Name="frmmain_tpref" Type="System.String" Scope="User">
+      <Value Profile="(Default)">引用</Value>
+    </Setting>
+    <Setting Name="frmmain_tpdecs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">声明</Value>
+    </Setting>
+    <Setting Name="frmmain_tpcodes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">代码</Value>
+    </Setting>
+    <Setting Name="frmmain_cbsExpansion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">允许将代码段插入到光标处</Value>
+    </Setting>
+    <Setting Name="frmmain_cbsSurroundsWith" Type="System.String" Scope="User">
+      <Value Profile="(Default)">允许将此代码段放置在一段选定的代码周围</Value>
+    </Setting>
+    <Setting Name="frmmain_lblKeyword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">关键词:</Value>
+    </Setting>
+    <Setting Name="frmmain_lblHelpUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">帮助URL:</Value>
+    </Setting>
+    <Setting Name="frmmain_lblCSDesc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">代码段说明:</Value>
+    </Setting>
+    <Setting Name="frmmain_lblAuthor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">作者:</Value>
+    </Setting>
+    <Setting Name="frmmain_lblShortcut" Type="System.String" Scope="User">
+      <Value Profile="(Default)">快捷字符串:</Value>
+    </Setting>
+    <Setting Name="frmmain_lblTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">标题:</Value>
+    </Setting>
+    <Setting Name="frmmain_lblCST" Type="System.String" Scope="User">
+      <Value Profile="(Default)">代码段放置类型:</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiTxtAddKeyword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">关键词</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiEditkeyword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">编辑</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiTxtEditKeyword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">编辑</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiDelete" Type="System.String" Scope="User">
+      <Value Profile="(Default)">删除</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiAddkeyword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">添加</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiOK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">确定</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiCancle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">取消</Value>
+    </Setting>
+    <Setting Name="frmmain_lblInf1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="frmmain_umbdeLiteral" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Declarations 元素中可能有零个或多个 Literal 元素</Value>
+    </Setting>
+    <Setting Name="frmmain_umbdeObject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Declarations 元素中可能有零个或多个 Object 元素。</Value>
+    </Setting>
+    <Setting Name="frmmain_gbsObject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">定义代码段的可编辑对象(Object)</Value>
+    </Setting>
+    <Setting Name="frmmain_gbsLiteral" Type="System.String" Scope="User">
+      <Value Profile="(Default)">定义代码段的可编辑文本(Literal)</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">文件(&amp;F)</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiNew" Type="System.String" Scope="User">
+      <Value Profile="(Default)">新建(&amp;N)</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiOpen" Type="System.String" Scope="User">
+      <Value Profile="(Default)">打开(&amp;O)...</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">保存(&amp;S)</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiSaveAs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">另存为(&amp;A)...</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiExit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">退出(&amp;X)</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiOptional" Type="System.String" Scope="User">
+      <Value Profile="(Default)">视图(&amp;V)</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiConfig" Type="System.String" Scope="User">
+      <Value Profile="(Default)">基本</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiHelp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">帮助(&amp;H)</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiAbout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">关于(&amp;A)...</Value>
+    </Setting>
+    <Setting Name="frmmain_lblInx" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IntelliSense 代码段</Value>
+    </Setting>
+    <Setting Name="frmmain_lbllanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">语言:</Value>
+    </Setting>
+    <Setting Name="frmmain_lblspa" Type="System.String" Scope="User">
+      <Value Profile="(Default)">分隔符:</Value>
+    </Setting>
+    <Setting Name="frmmain_lblInsType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">插入方式:</Value>
+    </Setting>
+    <Setting Name="SnippetFileFilter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">代码段文件(*.snippet)|*.snippet|Xml 兼容格式文件|*.xml|所有文件(*.*)|*.*</Value>
+    </Setting>
+    <Setting Name="FileDlgInitialDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="frmmain_ofdOpenFile_Title" Type="System.String" Scope="User">
+      <Value Profile="(Default)">打开代码段文件</Value>
+    </Setting>
+    <Setting Name="csDeclObject" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;String&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="csDeclLiteral" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;String&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="csAsmUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="csNamespace" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="frmmain_sfdsavefile_title" Type="System.String" Scope="User">
+      <Value Profile="(Default)">保存代码段文件</Value>
+    </Setting>
+    <Setting Name="frmmain_location" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="frmmmain_tmsitools" Type="System.String" Scope="User">
+      <Value Profile="(Default)">工具(&amp;T)</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmicheckrule" Type="System.String" Scope="User">
+      <Value Profile="(Default)">规则检查(&amp;C)</Value>
+    </Setting>
+    <Setting Name="frmmain_tsmiLearn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">写入检查(&amp;W)</Value>
+    </Setting>
+    <Setting Name="csSaveCheck" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

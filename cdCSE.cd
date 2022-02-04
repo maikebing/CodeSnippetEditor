@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="宋体" Size="9" />
+  <Class Name="CodeSnippetEditor.CodeSnippet" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CodeSnippet.vb</FileName>
+      <HashCode>AQBQoONIFgBgIEQgkAgh0AAABIAGKaAAEAAAKQAAIFA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeSnippetEditor.frmMain" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>frmMain.vb</FileName>
+      <HashCode>CBSMBKgQkiLUhA0QIICIouCHBRCI8QqFDCJQBQLFAYc=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeSnippetEditor.ucMysticBoy_DeclEdit" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ucMysticBoy_DeclEdit.vb</FileName>
+      <HashCode>gAAFUgAAFCBACCgAIICAAAQCgAAACCAAAgABAAACCAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeSnippetEditor.ucMysticBoy_ListBox" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ucMysticBoy_ListBox.vb</FileName>
+      <HashCode>gAAAAAQAoCAAAAAoAIiAAAIGBAAAAQAAAIDgCACIRBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeSnippetEditor.My.MyApplication" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeSnippetEditor.My.MySettings">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Settings.vb</FileName>
+      <HashCode>SAAIUAAQAACJAIQK6Bag4CAAlYBBgAKAKUEBILggBAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="CodeSnippetEditor.My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CodeSnippetEditor.My.Resources.Resources" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABFAAAAQAAAAAAABAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+</ClassDiagram>

@@ -1,0 +1,5 @@
+/.vs/CodeSnippetEditor/v17/*.suo
+/bin/Debug
+/bin
+/obj
+/*.user
